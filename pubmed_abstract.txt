@@ -1,0 +1,10 @@
+A sensitive high-performance liquid chromatography-tandem mass spectrometric (HPLC-MS/MS) assay has been developed for the quantitative analysis of vardenafil in human plasma. 
+Vardenafil and the internal standard, alprazolam, were extracted from 0.2 mL aliquots of alkalinized plasma by a single solvent extraction into hexane : dichloromethane. 
+Reversed-phase chromatographic separation was affected by gradient elution with mobile phases consisting of 10 mM ammonium formate pH 7.0 (solvent A) and methanol (100%, solvent B), delivered at a flow rate of 0.4 mL/min. 
+The analytes were detected by using an electrospray ion source on a 4000 QTrap triple quadrupole mass spectrometer operating in positive ionization mode. 
+The mass transitions were m/z 489.3 --> 312.2 for vardenafil and m/z 309.2 --> 281.0 for alprazolam. 
+The assay was linear over the concentration range of 0.2-100 ng/mL, with correlation coefficients > or = 0.995. 
+The intra- and inter-day precision was less than 5.4% in terms of relative standard deviation and the accuracy was within 12.7% in terms of relative error. 
+The lower limit of quantitation was set at 0.2 ng/mL. 
+The high sensitivity and acceptable performance of the assay allowed its application to the analysis of plasma samples obtained following the oral administration of vardenafil to healthy male volunteers in a pharmacokinetic study.
+
